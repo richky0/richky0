@@ -7,7 +7,7 @@
 ## 📊 GitHub Statistics
 
 <!-- GANTI [username] DENGAN USERNAME GITHUB ANDA YANG SEBENARNYA -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?richky0=[username]&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?richky0=[richky0]&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?richky0=[richky0]&layout=compact&theme=default)
 
@@ -20,7 +20,7 @@
 </div>
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[username]&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[richky0]&theme=github)
 
 
 ## 📫 Connect With Me

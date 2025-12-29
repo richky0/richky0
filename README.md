@@ -22,11 +22,12 @@ I specialize in building mobile applications with Flutter. Currently focused on 
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richky0&show_icons=true&theme=default&hide_border=true)
-
-*Ganti YOUR_USERNAME_HERE dengan username GitHub Anda*
+<!-- Menggunakan service alternatif -->
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richky0&theme=github)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=richky0&theme=github)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=richky0&theme=github)
 
 ---
 

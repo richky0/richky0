@@ -1,90 +1,170 @@
-<h1 align="left">🤖⚡🦕 Robot vs Dinosaur Battle 🦕⚡🤖</h1>
-
-###
-
-<p align="left">Terminator T-9000 is eliminating prehistoric threats!</p>
-
-###
-
-<h2 align="left">Battle Status</h2>
-
-###
-
-<p align="left">⚡ Currently terminating T-Rex...</p>
-<p align="left">🔥 Plasma cannons charging: 95%</p>
-<p align="left">💀 Dinosaurs eliminated: 42</p>
-
-###
-
-<h2 align="center">Battle Weapons</h2>
+<h1 align="center">🌟 Hello World! I'm Richky Sung 🌟</h1>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Plasma%20Cannon-FF6B6B?style=for-the-badge&logo=wechat&logoColor=white" height="40" alt="plasma" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Laser%20Sights-4ECDC4?style=for-the-badge&logo=target&logoColor=white" height="40" alt="laser" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/AI%20Targeting-45B7D1?style=for-the-badge&logo=ai&logoColor=white" height="40" alt="ai" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Nuclear%20Core-96CEB4?style=for-the-badge&logo=atom&logoColor=white" height="40" alt="nuclear" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Titanium%20Armor-FECA57?style=for-the-badge&logo=shield&logoColor=white" height="40" alt="armor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=👨‍💻+Flutter+Developer+%7C+Mobile+Expert;🚀+Building+Awesome+Apps+With+Flutter;🔥+HaoTube+Creator+%7C+Video+Streaming;💡+Passionate+About+Clean+Code;🎨+UI%2FUX+Enthusiast" alt="Typing SVG" />
 </div>
 
 ###
 
-<div>
-  <!-- Animasi Robot vs Dinosaur -->
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&animation=twinkling&color=gradient&height=100&section=header&text=🤖+VS+🦕&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF6B6B&strokeWidth=2&desc=Termination+in+Progress...&descSize=20&descAlign=50&descAlignY=50&theme=radical" />
-</div>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 ###
 
-<!-- Animasi Battle Scene -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RichkySung/RichkySung/output/robot-dino-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RichkySung/RichkySung/output/robot-dino-light.svg">
-  <img alt="robot vs dinosaur battle animation" src="https://raw.githubusercontent.com/RichkySung/RichkySung/output/robot-dino-dark.svg" width="100%">
-</picture>
-
-###
-
-<!-- Battle Activity Graph -->
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RichkySung&custom_title=🤖+Battle+Activity&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ffffff&area=true&hide_border=true&radius=16&theme=react-dark" height="300" alt="battle-activity-graph" />
-</div>
-
-###
-
-<!-- Battle Statistics -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RichkySung&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true&custom_title=Battle+Stats&layout=compact&hide=stars,issues&disable_animations=false" alt="battle-stats" />
   
-  <img src="https://streak-stats.demolab.com?user=RichkySung&theme=radical&hide_border=true&background=0D1117&dates=FFFFFF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=4ECDC4" alt="battle-streak" />
+  <!-- Animated Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RichkySung&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true&custom_title=Richky's+GitHub+Stats&layout=compact&hide=stars,issues&disable_animations=false&border_radius=20&ring_color=FF6B6B" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RichkySung&layout=compact&theme=radical&border_radius=20&langs_count=8&hide=html,css,scss&card_width=300" height="180" alt="languages graph" />
+  
 </div>
 
 ###
 
-<!-- Animated Typing Text -->
+<h2 align="center">🔥 Streak Stats</h2>
+
+###
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=🤖+Terminating+T-Rex...;⚡+Charging+Plasma+Cannon...;🔥+Firing+Main+Weapon...;💥+Direct+Hit!;💀+Dinosaur+Terminated!;🏆+Victory+Achieved!" alt="typing-animation" />
+  <img src="https://streak-stats.demolab.com?user=RichkySung&theme=radical&hide_border=true&background=0D1117&dates=FFFFFF&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&border_radius=20" height="180" alt="streak graph" />
 </div>
 
 ###
 
-<!-- Robot Battle Badges -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+###
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Combat-Ready-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Systems-Online-4ECDC4?style=flat-square&logo=server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weapons-Armed-FECA57?style=flat-square&logo=wechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Operational-45B7D1?style=flat-square&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power-100%25-96CEB4?style=flat-square&logo=lightning&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,github,vscode,git,figma&theme=dark&perline=8" alt="skills" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,nodejs,mongodb,mysql,postgres,redis&theme=dark&perline=8" alt="backend skills" />
 </div>
 
 ###
 
-<!-- Battle Visualization with Snake Animation -->
-![Robot Battle](https://raw.githubusercontent.com/RichkySung/RichkySung/output/github-contribution-grid-snake-dark.svg)
+<h2 align="center">🎮 Contribution Graph Animation</h2>
 
 ###
+
+<!-- Snake Game Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake game animation" />
+  </picture>
+</div>
+
+###
+
+<h2 align="center">📈 Activity Graph</h2>
+
+###
+
+<div align="center">
+  <!-- 3D Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RichkySung&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Richky's+Coding+Activity&radius=16&area_color=00ff88&title_color=ffffff" height="300" alt="activity graph" />
+</div>
+
+###
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RichkySung&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="trophies" />
+</div>
+
+###
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+###
+
+<div align="center">
+  
+  <!-- Project Cards with Animation -->
+  <a href="https://github.com/RichkySung/haotube">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RichkySung&repo=haotube&theme=radical&border_radius=20" />
+  </a>
+  
+  <a href="https://github.com/RichkySung/other-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RichkySung&repo=other-project&theme=radical&border_radius=20" />
+  </a>
+  
+</div>
+
+###
+
+<h2 align="center">💫 Special Effects</h2>
+
+###
+
+<!-- Animated Waving Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&reversal=false&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000000&animation=twinkling&desc=Welcome%20To%20My%20Profile&descSize=20&descAlign=50&descAlignY=70&theme=radical" alt="header" />
+</div>
+
+###
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&reversal=true&fontSize=90&animation=twinkling&theme=radical" alt="footer" />
+</div>
+
+###
+
+<h2 align="center">🎵 Now Playing</h2>
+
+###
+
+<!-- Spotify Playing -->
+<div align="center">
+  
+  [![Spotify](https://novatorem-psi-seven.vercel.app/api/spotify?background_color=0d1117&border_color=00ff88)](https://open.spotify.com/user/yourusername)
+  
+</div>
+
+###
+
+<h2 align="center">📫 Connect With Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/richkysung" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/richkysung" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:richky@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://dev.to/richkysung" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=RichkySung&label=Profile%20Views&color=00ff88&style=flat-square" alt="profile views" />
+  
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/RichkySung?label=Followers&style=social" alt="followers" />
+  
+</div>
+
+###
+
+<!-- Stars Animation -->
+<div align="center">
+  <img src="https://github.com/RichkySung/RichkySung/raw/output/github-contribution-grid-snake.gif" alt="snake" />
+</div>

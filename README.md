@@ -5,7 +5,7 @@
 </h1>
 
 <p style="font-size: 1.8rem; color: #94a3b8; margin-top: 10px;">
-  📱 Mobile Developer
+  Amateur developer
 </p>
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)

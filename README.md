@@ -1,49 +1,30 @@
 <div align="center">
 
-# 👋 Hi, I'm Richky
+<h1 style="font-size: 3.5rem; margin-bottom: 10px;">
+  👋 Hi, I'm <strong style="color: #4ecdc4;">Richky</strong>
+</h1>
 
-**Mobile Developer**
+<p style="font-size: 1.8rem; color: #94a3b8; margin-top: 10px;">
+  📱 Mobile Developer
+</p>
 
----
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 📊 GitHub Data
+### 🛠️ Tech Stack
 
-<!-- Hanya menampilkan apa yang tersedia -->
-**Account:** [richky0](https://github.com/richky0)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Public Repositories:**
-- [haotube_working](https://github.com/richky0/haotube_working) - Video streaming app
-- [emoji_game](https://github.com/richky0/emoji_game) - Game application
+<br>
 
----
+### 📫 Connect with Me
 
-## 🛠️ Technologies
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richky0)
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+<br>
 
----
-
-## 📈 Real GitHub Stats
-
-*Statistik akan muncul jika service tersedia*
-
-<!-- Coba load stats, jika gagal, tidak tampilkan apa-apa -->
-![](https://github-readme-stats.vercel.app/api?username=richky0&show_icons=true&theme=default)
-
----
-
-## 🔗 Connect
-
-<a href="https://github.com/richky0">
-  <img src="https://img.shields.io/badge/Visit_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-<small>Data sourced directly from GitHub • No fabricated information</small>
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer)
 
 </div>

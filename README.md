@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Richky</h1>
+# Hello, I'm Richky
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=0366d6&center=true&width=600&lines=Mobile+Developer;Flutter+Enthusiast;HaoTube+Creator" alt="Typing introduction" />
@@ -12,17 +12,13 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+## About Me
 
-<p align="left">
-  I'm a mobile developer focused on building quality applications with Flutter. 
-  Currently working on HaoTube, a video streaming application. 
-  Passionate about clean code and good user experience.
-</p>
+I'm a mobile developer focused on building quality applications with Flutter. Currently working on HaoTube, a video streaming application. Passionate about clean code and good user experience.
 
 ###
 
-<h2 align="left">Technologies</h2>
+## Technologies
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,git,github,vscode&theme=neutral" alt="Technology icons" />
@@ -30,7 +26,7 @@
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=richky0&show_icons=true&theme=default&hide_title=false&hide_border=true" height="160" alt="GitHub statistics" />
@@ -39,7 +35,7 @@
 
 ###
 
-<h2 align="left">Activity</h2>
+## Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=richky0&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" alt="Contribution streak" />
@@ -51,7 +47,7 @@
 
 ###
 
-<h2 align="left">Projects</h2>
+## Projects
 
 <div align="center">
   <a href="https://github.com/richky0/haotube_working">
@@ -82,5 +78,6 @@
 ###
 
 <div align="right">
-  <small>Last updated: $(date '+%Y-%m-%d %H:%M:%S') UTC</small>
+  <small>Last updated: 2024-01-15 14:30:00 UTC</small>
 </div>
+

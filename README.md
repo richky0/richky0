@@ -24,7 +24,7 @@ I specialize in building mobile applications with Flutter. Currently focused on 
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?richky0=richky0&show_icons=true&theme=default&hide_border=true)
 
 *Ganti YOUR_USERNAME_HERE dengan username GitHub Anda*
 
@@ -33,7 +33,7 @@ I specialize in building mobile applications with Flutter. Currently focused on 
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME_HERE">
+  <a href="https://github.com/richky0">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
